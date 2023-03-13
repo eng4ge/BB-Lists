@@ -1,0 +1,18 @@
+.asa
+.inc
+.config
+.zip
+.tar
+.gz
+.tgz
+.rar
+.tar.gz
+.java: No reason to provide access to Java source files
+.txt
+.pdf
+.docx
+.rtf
+.xlsx 
+.pptx
+.backup
+.bkp
